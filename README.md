@@ -1,5 +1,6 @@
 
 📦 Inventory Management System
+
 A simple and interactive inventory management tool built with Python. It allows users to manage items with details like quantity, category, and description, and supports saving/loading data in JSON and CSV formats.
 
 🚀 Features
